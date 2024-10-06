@@ -1,7 +1,16 @@
 ![logo](https://github.com/SPOORTHI-HR/SPOORTHI-HR/blob/main/GITBACKGROUND.jpg)
 <h1 align="center">Hi 👋, I'm SPOORTHI H R</h1>
+<h3 align="center">A passionate Full Stack Developer with Deep passion for AI and Web Development</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spoorthi-hr&label=Profile%20views&color=0e75b6&style=flat" alt="spoorthi-hr" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spoorthi-hr&label=Profile%20views&color=0e75b6&style=flat" alt="spoorthi-hr" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spoorthi-hr" alt="spoorthi-hr" /></a> </p>
+
+- 🔭 I’m currently Studying computer science(Artificial intelligence)engineering [Calculator,E-Commerce website](https://www.linkedin.com/posts/spoorthi-a519b4280_task1completed-webdevelopment-html-activity-7239290214676844544-CQWi?utm_source=share&utm_medium=member_android , https://www.linkedin.com/posts/spoorthi-a519b4280_task2-sagthifashionhub-webdevelopment-activity-7243131232836845569-mgFa?utm_source=share&utm_medium=member_android)
+
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **spoorthi0223@gmail.com**
 
